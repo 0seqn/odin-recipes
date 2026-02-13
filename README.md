@@ -1,2 +1,3 @@
 # odin-recipes
 Our goal right now is to create a page called odin-recipes, thats all the details that have been given so far.
+edit: we have created our webpage where it is about food recipes, we have added recipes for lasagna, brownie, and pizza these recipes have what ingredients you need and steps on how to make them, this is a nice website and great for people that want to make some quick food that might not be able to already make brownies, lasagna, or pizzas
